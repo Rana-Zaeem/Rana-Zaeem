@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning computer science in University of Gujrat
 - 💞️ I’m looking to collaborate on Microsoft or google or openAi
-- 📫 How to reach me  by Email: zaeemrajpoot445@gmial.com
+- 📫 How to reach me  by Email: zaeemrajpoot445@gmail.com
 - 😄 Pronouns: Brother
 - ⚡ Fun fact: Learn cooding from print "Hello World"
 
