@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Rana Zaeem
+![Banner](https://raw.githubusercontent.com/Rana-Zaeem/Rana-Zaeem/main/github_banner.png)
 
 🎓 I am a passionate Computer Science graduate with a strong focus on  **Machine Learning**,  **Artificial Intelligence**, and  **Data Science**. Throughout my academic journey, I have developed a deep understanding of these cutting-edge technologies and their real-world applications. As I prepare to embark on my professional career, I am excited to leverage my skills and continue growing in these dynamic and rapidly evolving fields.
-![Banner](https://raw.githubusercontent.com/Rana-Zaeem/Rana-Zaeem/main/github_banner.png)
+
 
 ---
 
