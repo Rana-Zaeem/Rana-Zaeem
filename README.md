@@ -23,7 +23,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rana-Zaeem&theme=dracula)
+
 
 ---
 
@@ -31,7 +31,7 @@
 
 ![Zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana-Zaeem&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Zaeem&layout=compact&theme=radical)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rana-Zaeem&theme=dracula)
 ---
 
 ## 🌐 Connect with Me
