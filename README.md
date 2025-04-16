@@ -38,11 +38,10 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/zaeems-asghar/)  
-<!-- Add your LinkedIn or portfolio link if you have one -->
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat&logoColor=white)](https://www.instagram.com/zaeem.rana.7169/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=flat&logoColor=white)](https://www.facebook.com/zaeem.rana.7169)
 
 ---
 
-> 💡 *"Strive to build not just projects, but meaningful impact."*
+> 💡 *"Strive to build not just projects, but meaningful impact."*  
+> Let's connect, collaborate, and innovate together in the world of tech and AI!
