@@ -34,8 +34,11 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/rana-zaeem/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/zaeems-asghar/)  
 <!-- Add your LinkedIn or portfolio link if you have one -->
+![Zaeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rana-Zaeem&show_icons=true&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rana-Zaeem&theme=dracula)
+
 
 ---
 
