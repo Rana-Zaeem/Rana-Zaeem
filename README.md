@@ -1,24 +1,28 @@
-\<!-- Profile Header Animation -->
+<!-- Profile Header Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 
+<!-- Main Heading -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Rana Zaeem
 </h1>
 
+<!-- Tagline -->
 <p align="center">
   🎓 Computer Science Graduate | 💡 AI & Machine Learning Enthusiast | 📊 Data Science Practitioner
 </p>
 
 ---
 
+<!-- Introduction Section -->
 I am a dedicated and results-driven Computer Science graduate with a passion for **Machine Learning**, **Artificial Intelligence**, and **Data Science**. My academic background and project experience have equipped me with a solid foundation in building intelligent systems and uncovering insights from data.
 
 As I embark on my professional journey, I am enthusiastic about contributing to impactful AI-driven solutions and collaborating with innovative teams to push the boundaries of technology.
 
 ---
 
+<!-- About Me Section -->
 ## 🚀 Areas of Focus
 
 - 🤖 Exploring advanced topics in **Machine Learning**, **Deep Learning**, and **Generative AI**
@@ -29,6 +33,7 @@ As I embark on my professional journey, I am enthusiastic about contributing to 
 
 ---
 
+<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack & Tools
 
 <p>
@@ -43,6 +48,7 @@ As I embark on my professional journey, I am enthusiastic about contributing to 
 
 ---
 
+<!-- GitHub Stats Section -->
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -59,6 +65,7 @@ As I embark on my professional journey, I am enthusiastic about contributing to 
 
 ---
 
+<!-- Social Links Section -->
 ## 🌐 Let's Connect
 
 <p>
@@ -75,5 +82,7 @@ As I embark on my professional journey, I am enthusiastic about contributing to 
 
 ---
 
+<!-- Quote Section -->
 > 🧠 *"The future belongs to those who innovate and solve real-world problems with technology."*  
 > Let’s connect, create, and lead in the era of Artificial Intelligence.
+
