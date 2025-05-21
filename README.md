@@ -82,11 +82,11 @@ I enjoy transforming abstract concepts into real-world applications. With a stro
   <br/>Uncover hidden patterns in chats using NLP & visualizations
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/Rana-Zaeem/email-spam-detector">
+  <a href="https://github.com/Rana-Zaeem/Email-Spam-Detector">
     <img src="https://skillicons.dev/icons?i=scikit-learn" width="100"/><br/>
     <strong>Email Spam Detector</strong>
   </a>
-  <br/>Machine Learning based spam classifier
+  <br/>Machine Learning based spam classifier (🛠 Repo URL Fixed)
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Rana-Zaeem/fifa-world-cup-analysis">
@@ -128,3 +128,4 @@ I enjoy transforming abstract concepts into real-world applications. With a stro
 > "The future belongs to those who innovate and solve real-world problems with technology."
 
 Let’s connect, collaborate, and build a smarter future together 🚀
+
