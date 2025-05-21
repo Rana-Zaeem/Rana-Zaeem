@@ -18,25 +18,27 @@
 <!-- About Section -->
 ## 🧠 About Me
 
-Hi! I'm **Rana Zaeem**, a driven and curious **Computer Science graduate** with a passion for **AI**, **Machine Learning**, and **Data Science**. I enjoy turning data into impactful insights and creating intelligent systems that can transform industries.
+I'm **Rana Zaeem**, a passionate **Computer Science graduate** deeply immersed in the world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
-Currently diving deeper into the world of **Generative AI**, I’m continuously building projects that blend creativity with data. I love collaborating with like-minded individuals who believe in technology as a force for good.
+I enjoy transforming abstract concepts into real-world applications. With a strong foundation in data analysis and intelligent systems, I'm committed to continuous learning and impactful innovation.
+
+🌟 I believe in leveraging technology to solve meaningful problems and inspire the future.
 
 ---
 
 <!-- Focus Areas Section -->
-## 🚀 Current Goals & Interests
+## 🚀 What I'm Working On
 
-- 🌌 Exploring cutting-edge models in **Deep Learning** and **GenAI**
-- 📊 Designing & deploying **data-driven applications**
-- 📚 Continuous learning through courses, competitions, and open-source
-- 🌍 Dreaming of contributing to **Google AI**, **Microsoft Research**, or **OpenAI**
-- 📬 Contact Me: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
+- 🤖 Advancing my knowledge in **Generative AI**, **Transformers**, and **LLMs**
+- 🛠️ Building and deploying full-stack **AI/ML applications**
+- 🌐 Open-source contributions and tech blogging
+- 🎯 Preparing for opportunities at **OpenAI**, **DeepMind**, and **Microsoft AI Research**
+- 💌 Connect with me: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
 
 ---
 
 <!-- Tech Stack Section -->
-## 🧰 Tech Toolbox
+## 🧰 My Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,35 +55,31 @@ Currently diving deeper into the world of **Generative AI**, I’m continuously 
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Insights
+## 📈 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rana-Zaeem&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Zaeem's GitHub stats"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Zaeem&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Rana-Zaeem&theme=radical&margin-w=10&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
 
 <!-- Featured Projects -->
-## 🧩 Featured Projects
+## 🌟 Featured Projects
 
-Here are some projects that showcase my skills and passion:
+Some projects I’ve enjoyed working on:
 
-- 🟩 [WhatsApp Chat Analyzer](https://github.com/Rana-Zaeem/Whats_app_chat_analyzer) — NLP-powered tool for WhatsApp insights
-- 🟦 [Spam Detection](https://github.com/Rana-Zaeem/email-spam-detector) — ML classifier to filter email spam
-- 🟥 [FIFA World Cup EDA](https://github.com/Rana-Zaeem/fifa-world-cup-analysis) — Exploratory data analysis on historical FIFA data
+- 🔍 [**WhatsApp Chat Analyzer**](https://github.com/Rana-Zaeem/Whats_app_chat_analyzer): Uncover hidden patterns in chats using NLP & visualizations
+- 📧 [**Email Spam Detector**](https://github.com/Rana-Zaeem/email-spam-detector): Machine Learning based spam classifier
+- ⚽ [**FIFA World Cup EDA**](https://github.com/Rana-Zaeem/fifa-world-cup-analysis): Exploratory analysis of FIFA history using Python
 
 ---
 
-<!-- Connect Section -->
-## 🌐 Let's Connect
+<!-- Let's Connect Section -->
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaeems-asghar/">
@@ -101,8 +99,8 @@ Here are some projects that showcase my skills and passion:
 ---
 
 <!-- Quote Section -->
-## 💬 Quote I Live By
+## 💬 Words I Live By
 
 > "The future belongs to those who innovate and solve real-world problems with technology."
 
-Let’s connect, collaborate, and shape the future through **AI**, **Data**, and **Creativity** 🚀
+Let’s connect, collaborate, and build a smarter future together 🚀
