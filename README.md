@@ -68,13 +68,37 @@ I enjoy transforming abstract concepts into real-world applications. With a stro
 ---
 
 <!-- Featured Projects -->
-## 🌟 Featured Projects
+## 🌟 Some Projects I’ve Enjoyed Working On
 
-Some projects I’ve enjoyed working on:
+<div align="center">
 
-- 🔍 [**WhatsApp Chat Analyzer**](https://github.com/Rana-Zaeem/Whats_app_chat_analyzer): Uncover hidden patterns in chats using NLP & visualizations
-- 📧 [**Email Spam Detector**](https://github.com/Rana-Zaeem/email-spam-detector): Machine Learning based spam classifier
-- ⚽ [**FIFA World Cup EDA**](https://github.com/Rana-Zaeem/fifa-world-cup-analysis): Exploratory analysis of FIFA history using Python
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/Rana-Zaeem/Whats_app_chat_analyzer">
+    <img src="https://skillicons.dev/icons?i=python,fastapi" width="100"/><br/>
+    <strong>WhatsApp Chat Analyzer</strong>
+  </a>
+  <br/>Uncover hidden patterns in chats using NLP & visualizations
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/Rana-Zaeem/email-spam-detector">
+    <img src="https://skillicons.dev/icons?i=scikit-learn" width="100"/><br/>
+    <strong>Email Spam Detector</strong>
+  </a>
+  <br/>Machine Learning based spam classifier
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/Rana-Zaeem/fifa-world-cup-analysis">
+    <img src="https://skillicons.dev/icons?i=python" width="100"/><br/>
+    <strong>FIFA World Cup EDA</strong>
+  </a>
+  <br/>Exploratory analysis of FIFA history using Python
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
