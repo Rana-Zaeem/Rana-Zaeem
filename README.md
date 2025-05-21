@@ -1,4 +1,4 @@
-<!-- Profile Header Animation -->
+<<!-- Profile Header Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi there"/>
 </p>
@@ -18,27 +18,26 @@
 <!-- About Section -->
 ## 🧠 About Me
 
-I'm **Rana Zaeem**, a passionate **Computer Science graduate** deeply immersed in the world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
+I'm **Rana Zaeem**, a passionate **Computer Science graduate** immersed in **AI**, **Machine Learning**, and **Data Science**. I specialize in transforming data into actionable insights through intelligent systems and automation.
 
-I enjoy transforming abstract concepts into real-world applications. With a strong foundation in data analysis and intelligent systems, I'm committed to continuous learning and impactful innovation.
+With a love for solving real-world problems, I strive to combine analytical thinking with modern technology to create impactful solutions. I'm always open to new ideas, collaborations, and innovations.
 
-🌟 I believe in leveraging technology to solve meaningful problems and inspire the future.
+📨 Reach out: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
 
 ---
 
 <!-- Focus Areas Section -->
-## 🚀 What I'm Working On
+## 🚀 Focus Areas
 
-- 🤖 Advancing my knowledge in **Generative AI**, **Transformers**, and **LLMs**
-- 🛠️ Building and deploying full-stack **AI/ML applications**
-- 🌐 Open-source contributions and tech blogging
-- 🎯 Preparing for opportunities at **OpenAI**, **DeepMind**, and **Microsoft AI Research**
-- 💌 Connect with me: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
+- 🤖 Deep Learning, Generative AI & Large Language Models
+- 🛠️ AI/ML-Powered Applications for Real-World Use
+- 🌐 Open Source Projects & Tech Community Contributions
+- 🎯 Career Aspirations with **OpenAI**, **DeepMind**, **Microsoft Research**
 
 ---
 
 <!-- Tech Stack Section -->
-## 🧰 My Toolbox
+## 🧰 Tech Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,14 +47,14 @@ I enjoy transforming abstract concepts into real-world applications. With a stro
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 <!-- GitHub Stats Section -->
-## 📈 GitHub Highlights
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rana-Zaeem&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Zaeem's GitHub stats"/>
@@ -68,42 +67,26 @@ I enjoy transforming abstract concepts into real-world applications. With a stro
 ---
 
 <!-- Featured Projects -->
-## 🌟 Some Projects I’ve Enjoyed Working On
+## 🌟 Featured Projects
 
-<div align="center">
+<p align="left">
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <a href="https://github.com/Rana-Zaeem/Whats_app_chat_analyzer">
-    <img src="https://skillicons.dev/icons?i=python,fastapi" width="100"/><br/>
-    <strong>WhatsApp Chat Analyzer</strong>
-  </a>
-  <br/>Uncover hidden patterns in chats using NLP & visualizations
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/Rana-Zaeem/Email-Spam-Detector">
-    <img src="https://skillicons.dev/icons?i=scikit-learn" width="100"/><br/>
-    <strong>Email Spam Detector</strong>
-  </a>
-  <br/>Machine Learning based spam classifier (🛠 Repo URL Fixed)
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/Rana-Zaeem/fifa-world-cup-analysis">
-    <img src="https://skillicons.dev/icons?i=python" width="100"/><br/>
-    <strong>FIFA World Cup EDA</strong>
-  </a>
-  <br/>Exploratory analysis of FIFA history using Python
-</td>
-</tr>
-</table>
+<a href="https://github.com/Rana-Zaeem/Whats_app_chat_analyzer">
+  <img src="https://img.shields.io/badge/WhatsApp%20Chat%20Analyzer-NLP%20Chat%20Insights-5cdb95?style=for-the-badge&logo=python&logoColor=white"/><br/>
+</a>
+<a href="https://github.com/Rana-Zaeem/Email-Spam-Detector">
+  <img src="https://img.shields.io/badge/Email%20Spam%20Detector-ML%20Text%20Classification-ff6f61?style=for-the-badge&logo=scikitlearn&logoColor=white"/><br/>
+</a>
+<a href="https://github.com/Rana-Zaeem/fifa-world-cup-analysis">
+  <img src="https://img.shields.io/badge/FIFA%20World%20Cup%20EDA-Interactive%20Data%20Storytelling-00bcd4?style=for-the-badge&logo=python&logoColor=white"/><br/>
+</a>
 
-</div>
+</p>
 
 ---
 
 <!-- Let's Connect Section -->
-## 🌐 Let’s Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaeems-asghar/">
@@ -123,7 +106,12 @@ I enjoy transforming abstract concepts into real-world applications. With a stro
 ---
 
 <!-- Quote Section -->
-## 💬 Words I Live By
+## 💬 Motto I Live By
+
+> "The future belongs to those who innovate and solve real-world problems with technology."
+
+Let’s collaborate, build, and innovate together 🚀
+
 
 > "The future belongs to those who innovate and solve real-world problems with technology."
 
