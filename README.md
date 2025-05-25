@@ -84,7 +84,7 @@ Here are some of the key projects I’ve worked on, combining data science, mach
   <tr>
     <td><strong>📧 Email Spam Detector</strong></td>
     <td>
-      <a href="https://github.com/Rana-Zaeem/Email-Spam-Detector">
+      <a href="https://github.com/Rana-Zaeem/Mail-Msg-spam-detection-">
         <img src="https://img.shields.io/badge/Spam%20Detection%20%7C%20ML%20Text%20Classification-Email%20Spam%20Detector-ff6f61?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
       </a>
       <br/>
