@@ -136,7 +136,6 @@ Let’s collaborate, build, and innovate together 🚀
 > "The future belongs to those who innovate and solve real-world problems with technology."
 
 Let’s connect, collaborate, and build a smarter future together 🚀 , in which i have alot of things better now you just made some changes in my project featured section make it more professional and attractive for this purpose if you change the another section of this code then you may go now and when i click these links it gives me 404 error and i want make sure please then i click on it i will redirect to my repos 
-<!-- Featured Projects -->
-## 🌟 Featured Projects
+
 
 
