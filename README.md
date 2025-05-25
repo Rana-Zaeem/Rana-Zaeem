@@ -94,7 +94,7 @@ Here are some of the key projects I’ve worked on, combining data science, mach
   <tr>
     <td><strong>🏆 FIFA World Cup EDA</strong></td>
     <td>
-      <a href="https://github.com/Rana-Zaeem/fifa-world-cup-analysis">
+      <a href="https://github.com/Rana-Zaeem/The-Art-of-EDA">
         <img src="https://img.shields.io/badge/Interactive%20EDA%20%7C%20Data%20Visualization-FIFA%20World%20Cup%20Analysis-00bcd4?style=for-the-badge&logo=python&logoColor=white"/>
       </a>
       <br/>
