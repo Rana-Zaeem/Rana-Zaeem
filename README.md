@@ -4,7 +4,10 @@
 </p>
 
 <p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm <strong>Rana Zaeem</strong> 👋
+</h1>
+
 <!-- Main Heading -->
 
 <h1 align="center">
