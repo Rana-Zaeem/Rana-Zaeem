@@ -25,7 +25,7 @@
 - 🛠️ Skilled in cleaning, analyzing, and visualizing data for insights  
 - 📫 Reach me at: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## 🧰 Tech Toolbox
 
@@ -79,7 +79,7 @@
 </table>
 
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 ## 📊 GitHub Stats
