@@ -1,6 +1,6 @@
 <!-- Typing Text Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Zaeem+Asghar+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+%7C+ML+%7C+CV+%7C+NLP+Enthusiast;Open+Source+Contributor;Let's+build+something+amazing+!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Zaeem+Asghar+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+%7C+ML+%7C+CV+%7C+NLP+Enthusiast;Open+Source+Contributor;Build+something+amazing+!">
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
