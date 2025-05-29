@@ -44,15 +44,16 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/><br><sub><b>OpenCV</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" width="60"/><br><sub><b>Sklearn</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="60"/><br><sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60"/><br><sub><b>Seaborn</b></sub>
-    </td>
+   <td align="center" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/><br><sub><b>Sklearn</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/><br><sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"/><br><sub><b>Seaborn</b></sub>
+</td>
+
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><sub><b>Git</b></sub>
     </td>
