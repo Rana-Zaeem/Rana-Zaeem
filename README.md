@@ -21,48 +21,27 @@
 
 ## 🧰 Tech Toolbox
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="50" /><br/>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pandas" width="50" /><br/>Pandas
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=numpy" width="50" /><br/>NumPy
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=scikit-learn" width="50" /><br/>sklearn
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50" /><br/>TensorFlow
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50" /><br/>PyTorch
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv" width="50" /><br/>OpenCV
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="50" /><br/>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=seaborn" width="50" /><br/>Seaborn
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="50" /><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" /><br/>VS Code
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="50" /><br/>GitHub
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <!-- ML & AI -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-40B4C0?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
 
 ---
 
@@ -130,5 +109,6 @@
 ---
 
 > _"The best way to predict the future is to invent it."_ — *Alan Kay*
+
 
 
