@@ -95,7 +95,7 @@
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 🚀 Projects
 
 - 💬 **WhatsApp Chat Analyzer** – Sentiment & Toxicity Detection using NLP  
@@ -106,7 +106,7 @@
 
 ➡️ [See all my repositories](https://github.com/Rana-Zaeem?tab=repositories)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## 🏆 GitHub Achievements
 
@@ -114,7 +114,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rana-Zaeem&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## ✨ Quote of the Day
 
@@ -122,7 +122,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## 🌐 Connect with Me
 
