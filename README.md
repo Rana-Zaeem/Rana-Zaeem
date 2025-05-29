@@ -1,8 +1,7 @@
 <!-- Typing Text Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Here+Muhammad+Zaeem+Asghar+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+NLP+Enthusiast;Open+Source+Contributor;Build+something+amazing+!">
-</p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></
+
 <p align="center">
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi there"/>
