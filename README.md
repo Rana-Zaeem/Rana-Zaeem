@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi there"/>
 </p>
-<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Alexander Pinches's Github" width="100%"/></a>
+<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Hey there, I'm <strong>Rana Zaeem</strong> 👨‍💻" width="100%"/></a>
 
 <p align="center">
 <a href="https://github.com/Parply/profile-wordcloud">
