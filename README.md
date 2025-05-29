@@ -2,11 +2,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Here+Muhammad+Zaeem+Asghar+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+NLP+Enthusiast;Open+Source+Contributor;Build+something+amazing+!">
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Hi there"/>
+</p>
+
 
 <h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
 <!-- Main Heading -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm <strong>Rana Zaeem</strong> 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm <strong>Rana Zaeem</strong> 👨‍💻
 </h1>
 
 <h3 align="center">Empowering Ideas with Code | Driven by Data | Fueled by Curiosity</h3>
