@@ -1,9 +1,8 @@
-<!-- Animated Typing Text -->
+<!-- Typing Text Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Zaeem+Asghar+%F0%9F%91%8B;Aspiring+Data+Scientist;Python+%7C+ML+%7C+CV+%7C+NLP+Enthusiast;Open+Source+Contributor;Let's+build+something+amazing+!">
 </p>
 
-<!-- Title -->
 <h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
 <h3 align="center">Empowering Ideas with Code | Driven by Data | Fueled by Curiosity</h3>
 
@@ -11,11 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Bachelor's in CS (UOG) | 🎓 2025 Graduate  
-- 🧠 Passionate about **Machine Learning**, **Generative AI**, and **Data Science**  
-- 🧪 Building intelligent solutions using **Python**, **NLP**, and **Computer Vision**  
-- 🛠️ Strong in data cleaning, visualization, and predictive modeling  
-- 📬 Reach me at: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
+- 🎓 Bachelor's in Computer Science @ University of Gujrat (2025)  
+- 🧠 Passionate about **Machine Learning**, **Data Science**, and **Generative AI**  
+- 🔬 Working with **Python**, **NLP**, **Computer Vision**, and **Data Visualization**  
+- 🛠️ Skilled in cleaning, analyzing, and visualizing data for insights  
+- 📫 Reach me at: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
 
 ---
 
@@ -45,7 +44,7 @@
 
 ---
 
-## 🔥 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rana-Zaeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
@@ -58,15 +57,15 @@
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 
-- 💬 **WhatsApp Chat Analyzer** → Sentiment + Toxicity insights via NLP  
-- 📩 **Spam Email Detector** → ML-based classifier to detect spam  
-- 🏥 **Pregnancy Health Data** → EDA for insights on women’s medical care  
-- 🏘️ **House Price Prediction** → Regression using sklearn  
-- ⚽ **FIFA World Cup Analysis** → EDA on historical World Cup data  
+- 💬 **WhatsApp Chat Analyzer** – Sentiment & Toxicity Detection using NLP  
+- 📩 **Spam Email Detector** – Classifier to distinguish spam from ham  
+- 🏥 **Pregnancy Health EDA** – Insights into women’s conditions during pregnancy  
+- 🏘️ **House Price Predictor** – ML regression model for real estate  
+- ⚽ **FIFA World Cup Analysis** – Exploratory analysis of match data  
 
-👉 [Explore more](https://github.com/Rana-Zaeem?tab=repositories)
+➡️ [See all my repositories](https://github.com/Rana-Zaeem?tab=repositories)
 
 ---
 
@@ -81,12 +80,12 @@
 ## ✨ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaeems-asghar/" target="_blank">
@@ -109,6 +108,3 @@
 ---
 
 > _"The best way to predict the future is to invent it."_ — *Alan Kay*
-
-
-
