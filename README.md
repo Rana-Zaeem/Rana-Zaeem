@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Bachelor's in Computer Science @ University of Gujrat (2025)  
-- 🧠 Passionate about **Machine Learning**, **Data Science**, and **Generative AI**  
+- 🧠 Passionate about **Machine Learning**, **Data Sciences**, and **Generative AI**  
 - 🔬 Working with **Python**, **NLP**, **Computer Vision**, and **Data Visualization**  
 - 🛠️ Skilled in cleaning, analyzing, and visualizing data for insights  
 - 📫 Reach me at: [zaeemrajpoot445@gmail.com](mailto:zaeemrajpoot445@gmail.com)
