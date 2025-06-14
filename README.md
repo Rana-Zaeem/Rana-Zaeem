@@ -11,7 +11,7 @@
 <!-- Main Heading -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm <strong>Muhammad Zaeem</strong> 👨‍💻
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm <strong>Muhammad  Zaeem</strong> 👨‍💻
 </h1>
 <h3 align="center">Empowering Ideas with Code | Driven by Data | Fueled by Curiosity</h3>
 
